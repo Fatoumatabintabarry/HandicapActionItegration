@@ -28,7 +28,7 @@ const Navbar = () => {
       <div className="lg:flexCenter hidden ">
         <Button
           type="button"
-          title="Login"
+          title="Contact"
           icon="/user.svg"
           variant="btn_dark_green"
         />
