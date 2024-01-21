@@ -23,13 +23,9 @@ const Hero = () => {
         </h1>
 
         <p className="regular-16 mt-6 text-gray-30 xl:max-w-[520px]">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat. Duis aute irure dolor in
-          reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-          pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-          culpa qui officia deserunt mollit anim id est laborum
+        Notre organisme à comme mission de contribuer au développement du plein potentiel et
+         augmenter le pouvoir d'agir de personnes en situation de handicap et issues de l'immigration,
+          en favorisant leur inclusion dans la société d'accueil.
         </p>
 
         <div className="flex flex-col w-full gap-4 sm:flex-row">

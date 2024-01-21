@@ -1,7 +1,7 @@
 import Image from 'next/image'
 import Navbar from './components/Navbar'
 import Hero from './components/Hero'
-import Guide from './components/Guide'
+import Mission from './components/Mission'
 
 
 export default function Home() {
@@ -9,7 +9,7 @@ export default function Home() {
     <>
     <Hero/>
   
-    <Guide/>
+    <Mission/>
     
 
     </>

@@ -5,10 +5,12 @@ import { NAV_LINKS } from "../constants";
 import Button from "./Button";
 
 const Navbar = () => {
+  
   return (
     <nav
       className=" flexBetween max-container
     padding-container relative z-30 py-5 "
+    
     >
       <Link href="/">
         <Image src="/hilink-logo.svg" alt="logo" width={75} height={30} />
