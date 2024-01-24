@@ -8,12 +8,14 @@ const Navbar = () => {
   
   return (
     <nav
-      className=" flexBetween max-container
+      className=" flexBetween 
     padding-container relative z-30 py-5 "
-    
+    style={{
+      backgroundColor:'#FBEECA'
+     }}
     >
       <Link href="/">
-        <Image src="/hilink-logo.svg" alt="logo" width={75} height={30} />
+        <Image src="/logo1.png" alt="logo" width={250} height={100} />
       </Link>
       <ul className="hidden h-full gap-12 lg:flex">
         {NAV_LINKS.map((link) => (
